@@ -8,7 +8,7 @@ Matplotlib, Seaborn , Pandas , Numpy , Plotly , Folium , WordCloud & Regex and
 etc.
 
 Steps to Complete This Project: 
-Step 1: Load The Data as CSV,Excel & Others Files Format. 
-Step 2: Data Gathering. 
-Step 3: Data Cleaning / Data Transformating. 
-Step 4: Using Different Charts & Graphs to Analyse The Data Easly.
+* Step 1: Load The Data as CSV,Excel & Others Files Format. 
+* Step 2: Data Gathering. 
+* Step 3: Data Cleaning / Data Transformating. 
+* Step 4: Using Different Charts & Graphs to Analyse The Data Easly.
